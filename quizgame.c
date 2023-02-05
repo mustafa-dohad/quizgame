@@ -1,7 +1,7 @@
-#include<stdio.h> //header files//
+#include<stdio.h> //header files //
 #include<ctype.h>
 
-int main() // body of main//
+int main() // body of main //
 {          
     char questions[][100] = {"\t\t\t\t\t\t\t1.The Euro currency is used by how many countries?: ",
                              "\t\t\t\t\t\t\t2.The second largest continent (by area) of the world is?: ",
